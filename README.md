@@ -1,2 +1,2 @@
-# show-hosting
-Show hosting website in vue.js and spring boot
+# realanimeschedule
+Anime tracking website in vue.js and spring boot
