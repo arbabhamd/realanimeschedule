@@ -9,8 +9,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
     <div class="wrapper">
       <HelloWorld
-        msg="Test 
-      2"
+        msg="Test       2"
       />
 
       <nav>
